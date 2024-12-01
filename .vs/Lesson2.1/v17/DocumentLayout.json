@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u041A\u0443\u0440\u0441 C#\\Lesson2.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB94EA17-66D6-4490-978E-500385C5E9CA}|Lesson2.2\\Lesson2.2.csproj|c:\\\u043A\u0443\u0440\u0441 c#\\lesson2.1\\lesson2.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB94EA17-66D6-4490-978E-500385C5E9CA}|Lesson2.2\\Lesson2.2.csproj|solutionrelative:lesson2.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE6ADAA-C604-4E02-94A2-56E02ACDCD06}|Lesson2.1\\Lesson2.1.csproj|c:\\\u043A\u0443\u0440\u0441 c#\\lesson2.1\\lesson2.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE6ADAA-C604-4E02-94A2-56E02ACDCD06}|Lesson2.1\\Lesson2.1.csproj|solutionrelative:lesson2.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u041A\u0443\u0440\u0441 C#\\Lesson2.1\\Lesson2.2\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson2.2\\Program.cs",
+              "ToolTip": "C:\\\u041A\u0443\u0440\u0441 C#\\Lesson2.1\\Lesson2.2\\Program.cs",
+              "RelativeToolTip": "Lesson2.2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:57:31.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u041A\u0443\u0440\u0441 C#\\Lesson2.1\\Lesson2.1\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson2.1\\Program.cs",
+              "ToolTip": "C:\\\u041A\u0443\u0440\u0441 C#\\Lesson2.1\\Lesson2.1\\Program.cs",
+              "RelativeToolTip": "Lesson2.1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:56:04.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
